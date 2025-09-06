@@ -8,10 +8,10 @@
 		<version>3.5.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.edu.ifsp.biblioteca</groupId>
-	<artifactId>biblioteca</artifactId>
+	<groupId>br.edu.ifsp.demo_clean</groupId>
+	<artifactId>demo_clean</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>biblioteca</name>
+	<name>demo_clean</name>
 	<description>Example project for Spring Boot</description>
 	<url/>
 	<licenses>

@@ -4,13 +4,13 @@ spring:
       enabled: ALWAYS
 
   application:
-    name: biblioteca
+    name: demo_clean
 
   jackson:
     time-zone: America/Sao_Paulo
 
   datasource:
-    url: jdbc:h2:file:~/bibliotecaDB
+    url: jdbc:h2:file:~/carrosDB
     driver-class-name: org.h2.Driver   
     username: sa
     password:
@@ -41,6 +41,6 @@ management:
       enabled: true
 
 app:
-  name: "biblioteca"
+  name: "demo_clean"
   version: "0.0.1-SNAPSHOT"
   description: "Example project for Spring Boot"
